@@ -1,0 +1,2 @@
+- await contract.contribute.sendTransaction({value: toWei("0.00001")})
+- await contract.sendTransaction({value: toWei("0.00001")})
