@@ -27,3 +27,4 @@
 |20|Denial|Exhaustion of Gas|★★★☆☆||
 |21|Shop|Solidity Basic|★★☆☆☆||
 
+
